@@ -9,7 +9,7 @@ public class MainController {
 
     @GetMapping("/")
     public String index() {
-        String string = "HOLA";
+        String string = "Ave maria purisima";
         return string;
     }
 }
